@@ -52,6 +52,7 @@ body {
 
 .container-1, .container-2 {
     justify-content: center;
+    flex: 1;
 }
 
 .main-text {
