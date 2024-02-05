@@ -69,6 +69,14 @@ button {
     flex: 1;
 }
 
+.container-2 {
+    display: flex;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(119, 123, 124);
+    align-items: center;
+}
+
 .main-text {
     font-size: 48px;
     color: #F9FAF8;
