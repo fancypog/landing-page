@@ -1,1 +1,42 @@
+.header {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: space-between;
+}
 
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    
+}
+
+.header-links {
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    gap: 20px;
+
+}
+.section-1 {
+
+
+}
+
+
+.section-2 {
+
+
+}
+
+
+.section-3 {
+
+
+}
+
+.footer {
+
+    background-color: #1F2937;
+
+
+}
