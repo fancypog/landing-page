@@ -84,10 +84,41 @@ button {
 }
 
 .section-2 {
-
-
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
+.title {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.groups {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 15px;
+}
+
+.illustration {
+    width: 125px;
+    height: 125px;
+    border-color: #3882F6;
+    border-style: solid;
+    border-radius: 12px;
+}
+
+.section-2 p {
+    max-width: 135px;
+    text-align: center;
+    
+}
 
 .section-3 {
 
