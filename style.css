@@ -38,7 +38,20 @@ body {
 
 }
 
+button {
+    background-color: #3882F6;
+    border: none;
+    color: #E5E7EB;
+    border-radius: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
 
+}
 
 
 .section-1 {
@@ -49,6 +62,7 @@ body {
     justify-content: left;
     align-items: center;
 }
+
 
 .container-1, .container-2 {
     justify-content: center;
