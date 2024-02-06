@@ -134,14 +134,38 @@ button {
     justify-content: center;
 }
 
+.section-4 {
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+
+.blue-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    background-color: #3882F6;
+    color: #E5E7EB;
+    border-radius: 6px;
+}
+
+
 .text-2 {
     text-align: right;
     font-size: 30px;
     font-weight: bold;
 }
 
+
+.section-4 button {
+    border-color: #E5E7EB;
+    border-style: solid;
+}
+
+
 .footer {
-
+    color: #E5E7EB;
     background-color: #1F2937;
-
+    text-align: center;
 }
